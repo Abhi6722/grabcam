@@ -1,6 +1,6 @@
 #!/bin/bash
 # coded by: github.com/thelinuxchoice/saycheese
-# This script modified by Noob Hackers
+# This script modified by Abhinav
 #@@2222222
 # Hearlty thanks for linuxchoice
 # If you use any part from this code, giving me the credits. Read the Lincense!
@@ -28,7 +28,7 @@ echo '
                                                                                
 echo " "
 printf "      \e[1;77m v1.0 coded by github.com/thelinuxchoice/saycheese\e[0m \n"
-printf "          \e[1;77m v1.1 This reborn script by { Noob Hackers }\e[0m \n"
+printf "          \e[1;77m v1.1 This reborn script by { Abhinav }\e[0m \n"
 
 printf "\n"
 
