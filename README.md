@@ -68,9 +68,12 @@ Now go and chek your gallery for victim image...
 * Note:- Don't delete any of the scripts included in grabcam files
 
 ### Subscribe our channel on youtube:
+https://www.youtube.com/channel/UCV9qe5io3OCZ8vHMu4gnQZQ
+
 https://www.youtube.com/channel/UC8WMY4rq78dHlLYIqp4VVmw
 
 ### Chekout our webite:
+https://hackershub.abhi6722.in
 https://www.abhi6722.in
 
 ## ?? ***Join***
