@@ -73,22 +73,22 @@ https://www.youtube.com/channel/UCV9qe5io3OCZ8vHMu4gnQZQ
 https://www.youtube.com/channel/UC8WMY4rq78dHlLYIqp4VVmw
 
 ### Chekout our webite:
+
 https://hackershub.abhi6722.in
-https://www.abhi6722.in
+
+
 
 ## ?? ***Join***
 
-### Facebook group: 
-https://www.facebook.com/groups/12456
 
 ### Telegram channel:
-https://t.me/abhi6722
+https://t.me/officialhackershub
 
 ### Facebook page:
-https://www.facebook.com/abhinavkumar
+https://m.facebook.com/Hackers-Hub-103249834703018/?ref=bookmarks
 
 ### Instagram: 
-https://www.instagram.com/abhi_6722
+https://www.instagram.com/official_hackershub
 
 ### Pinterest:
 https://in.pinterest.com/abhi6722
