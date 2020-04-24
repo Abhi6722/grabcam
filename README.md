@@ -91,7 +91,7 @@ https://m.facebook.com/Hackers-Hub-103249834703018/?ref=bookmarks
 https://www.instagram.com/official_hackershub
 
 ### Pinterest:
-https://in.pinterest.com/abhi6722
+https://in.pinterest.com/abhinav6722cool/
 
 ### My GitHub ID link:
 https://www.github.com/Abhi6722
