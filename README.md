@@ -74,7 +74,7 @@ https://www.youtube.com/channel/UC8WMY4rq78dHlLYIqp4VVmw
 
 ### Chekout our webite:
 
-https://hackershub.abhi6722.in
+https://hackers-hub.com
 
 
 
