@@ -10,7 +10,7 @@ grabcam is a bash based script which is officially made for termux from this too
 [![Build Status](https://img.shields.io/github/stars/noob-hackers/m-wiz.svg)](https://github.com/Abhi6722/grabcam)
 [![Build Status](https://img.shields.io/github/forks/noob-hackers/m-wiz.svg)](https://github.com/Abhi6722/grabcam)
 [![License: MIT](https://img.shields.io/github/license/noob-hackers/m-wiz.svg)](https://github.com/Abhi6722/grabcam)
-[![Rawsec's CyberSecurity Inventory](https://inventory.rawsec.ml/img/badges/Rawsec-inventoried-FF5050_flat.svg)](https://inventory.rawsec.ml/tools.html#grabcam)
+[![Rawsec's CyberSecurity Inventory](https://inventory.raw.pm/img/badges/Rawsec-inventoried-FF5050_flat.svg)](https://inventory.raw.pm/tools.html#grabcam)
 [![Stage](https://img.shields.io/badge/Release-Stable-brightgreen.svg)]()
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
